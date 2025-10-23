@@ -192,6 +192,3 @@ browser.storage.onChanged.addListener((changes) => {
     }
 });
 
-// Старт
-observeCourseListChanges();
-simplifyAllCourseCards();
